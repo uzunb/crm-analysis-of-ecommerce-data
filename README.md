@@ -3,18 +3,18 @@
 ## Project Description
 The project refer from Customer Analysis in Data Science Course of Veri Bilimi Okulu. 
 
-### Project Goals
+### Goals
 - Customer Acquisition
 - Customer Conversion and Retention
 - Customer Churn Prediction
 - Enriching the experience of the customer
 
-### Project Steps
-- Data Collecting
-- Data Preprocessing
-- Feature Engineering
-- Customer Segmentation
-- Association Rules & Market Basket Analysis 
+### Steps
+1. Data Collecting
+2. Data Preprocessing
+3. Feature Engineering
+4. Customer Segmentation
+5. Association Rules & Market Basket Analysis 
 
 ## About Dataset
 
@@ -33,6 +33,6 @@ Image from stocksnap.io.
 Analyses for this dataset could include time series, clustering, classification and more.
 
 ### Source & References
-![E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-![Customer Analysis](https://youtu.be/DowbzgtH0-0)
+[E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+[Customer Analysis](https://youtu.be/DowbzgtH0-0)
 
