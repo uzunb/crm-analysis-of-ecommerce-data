@@ -71,7 +71,6 @@ pip install -r requirements.txt
 # you can run all cells in main.ipynb
 ```
 
-
 ### Source & References
 [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
 [Customer Analysis](https://youtu.be/DowbzgtH0-0)
