@@ -1,5 +1,4 @@
-# crm-analysis-of-ecommerce-data
-crm-analysis-of-ecommerce-data
+# CRM Analysis Of E-Commerce Data
 
 ## Project Description
 The project refer from Customer Analysis in Data Science Course of Veri Bilimi Okulu. 
