@@ -32,7 +32,46 @@ Image from stocksnap.io.
 ### Inspiration
 Analyses for this dataset could include time series, clustering, classification and more.
 
-### Source & References
-[E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-[Customer Analysis](https://youtu.be/DowbzgtH0-0)
+## Installation
 
+### Tested on this environment
+- python==3.10.5
+- pandas==1.5.0
+- numpy==1.23.3
+- matplotlib==3.6.0
+- seaborn==0.12.0
+- scikit-learn==1.1.2
+- mlxtend==0.21.0
+
+### Usage
+```bash
+# clone the repo
+git clone https://github.com/uzunb/crm-analysis-of-ecommerce-data.git
+
+# change to the repo directory
+cd crm-analysis-of-ecommerce-data
+
+# if virtualenv is not installed, install it
+#pip install virtualenv
+
+# create a virtualenv
+virtualenv -p python3 venv
+
+# activate virtualenv for LINUX or MACOS
+source venv/bin/activate
+
+# # activate virtualenv for WINDOWS
+# venv\Scripts\activate.ps1
+#     # throubleshooting for activation error in windows
+#     Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+# install dependencies
+pip install -r requirements.txt
+
+# you can run all cells in main.ipynb
+```
+
+
+### Source & References
+[E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
+[Customer Analysis](https://youtu.be/DowbzgtH0-0)
