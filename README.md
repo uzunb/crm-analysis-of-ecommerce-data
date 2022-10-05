@@ -33,5 +33,6 @@ Image from stocksnap.io.
 Analyses for this dataset could include time series, clustering, classification and more.
 
 ### Source & References
-https://www.kaggle.com/datasets/carrie1/ecommerce-data
-https://youtu.be/DowbzgtH0-0
+![E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+![Customer Analysis](https://youtu.be/DowbzgtH0-0)
+
